@@ -1,0 +1,1 @@
+In the smartwatch market, there is fierce competition between the different brands. People who enjoy keeping up with their fitness tend to favor smartwatches. One application of data science in healthcare is the analysis of the fitness data that has been gathered. 
